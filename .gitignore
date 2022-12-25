@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Compiled Static libraries
+*.ifc
+
 # Executables
 *.exe
 *.out
